@@ -1,0 +1,5 @@
+git clone https://YourTokenHere@github.com/YourUserNameHere/YourProjectHere.git
+
+git config --global user.email "example@gmail.com"
+
+git config --global user.name "examplename"
